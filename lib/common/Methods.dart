@@ -1,0 +1,4 @@
+enum Methods {
+  GET,
+  POST,
+}
